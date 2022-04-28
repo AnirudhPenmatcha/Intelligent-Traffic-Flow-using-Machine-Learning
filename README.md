@@ -1,7 +1,6 @@
 This program was run and tested only on an Ubuntu system
 
 Instructions to run the program:
-
 1. First install darknet by following the instructions from here: (https://pjreddie.com/darknet/install/). You don't need to install with CUDA, but it can increase your inference time. Installing with OpenCV is required. And also enable LIBSO. 
 You can also replace with this in your makefile: 
 ```GPU=0
