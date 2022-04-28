@@ -4,7 +4,8 @@ Instructions to run the program:
 
 1. Install darknet by following the instructions from here: (https://pjreddie.com/darknet/install/). You don't need to install with CUDA, but it can increase your inference time. Installing with OpenCV is required. And LIBSO must be enabled. 
 Or you can also simply replace with this in your makefile to make sure opencv and libso are enabled: 
-```GPU=0
+```
+GPU=0
 CUDNN=0
 CUDNN_HALF=0
 OPENCV=1
