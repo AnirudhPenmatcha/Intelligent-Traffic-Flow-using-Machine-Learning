@@ -4,7 +4,13 @@
 
 Traffic congestion is a serious problem of rising concern especially in India where the population is already over a billion and the common choices of transport for commuting being a four wheeler and a two wheeler. India is urbanizing at a great pace and it is competing with the fastest growing countries in the world which also resulted in high vehicular growth. In order to tackle this some research has been conducted on the existing methods and technologies for relieving traffic congestion and was identified with a lot of improvement to make. Hence the main aim  of this project is to make it now intelligent enough to take into consideration accidents/breakdowns, clearing way for ambulances and firetrucks and better reliability of the existing system in detecting vehicles. Using the live feed from cameras with image processing, deep learning and an algorithm with a timer logic for the signals, this project tackles the issue.
 
+### System Architecture:
+
+The system has been split into four categories: 1. Incoming camera feed 2. AI model for object detection 3. Signal switching algorithm 4. Signal timer logic update.
+
 ![Architecture Diagram (1)](https://user-images.githubusercontent.com/53865153/211255215-9d0ad70b-9d21-4a9e-936f-8d003c584eaf.png)
+
+###### Incoming Camera Feed
 
 ### Instructions to run the program:
 
