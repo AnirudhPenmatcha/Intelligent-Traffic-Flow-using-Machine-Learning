@@ -7,7 +7,7 @@ Traffic congestion is a serious problem of rising concern especially in India wh
 
 ### Instructions to run the program:
 
-This program was run and tested only on an Ubuntu system
+**This program was run and tested only on an Ubuntu system**
 
 1. Install git in your system. If you are using ubunutu, run 'sudo apt-get install git' in your terminal. 
 2. Run in your terminal 'git clone https://github.com/AlexeyAB/darknet' 
